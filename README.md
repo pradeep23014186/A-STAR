@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Krishna Prasad S</h3>
-<h3>Register Number: 212223230108</h3>
+<h3>Name: Pradeep Kumar G</h3>
+<h3>Register Number: 212223230150</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -55,8 +55,8 @@
 <hr>
 
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep Kumar G
+Register No. : 212223230150
 ```
 ```py
 # A* Algorithm
@@ -162,13 +162,16 @@ else:
 
 <h2>Output:</h2>
 
-![alt text](Output-img/output.png)
+<img width="595" height="767" alt="output" src="https://github.com/user-attachments/assets/cc0c7f30-2c11-4fb8-83d0-612a26515186" />
+
 
 <h3>Graph:</h3>
 
-![alt text](Output-img/graph.png)
+<img width="1536" height="855" alt="graph" src="https://github.com/user-attachments/assets/2e714140-7c14-48ea-a869-0330b8596e64" />
 
-![alt text](Output-img/graph_output.png)
+
+<img width="800" height="600" alt="graph_output" src="https://github.com/user-attachments/assets/f63732ee-6a30-47e7-81f5-89720a1bf133" />
+
 
 <hr>
 <h2>Sample Graph I</h2>
